@@ -1,0 +1,46 @@
+body{
+    background-repeat: no-repeat;
+    background-blend-mode: exclusion;
+    transition: 1s;
+    border: 0lvh;
+    border-color: goldenrod;
+    border-style: dotted;
+    animation: Maa ;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    background-size:contain;
+}
+
+@keyframes Maa{
+    5%{background-image: url(Saraswati\ Maa.jpg);}
+    10%{background-image: url(Maa\ Brahmacharini.jpeg);}
+    20%{background-image: url(Maa-Siddhidatri.jpg);}
+    30%{background-image: url(Maa\ Katyayani.jpeg);}
+    40%{background-image: url(Maa\ Kushmanda.jpeg);}
+    50%{background-image: url(Maa\ Mahagauri.jpeg);}
+    60%{background-image: url(Maa\ Skandamata.jpeg);}
+    70%{background-image: url(Durga\ Maa.jpeg);}
+    80%{background-image: url(Lakshmi\ mata.jpg);}
+    90%{background-image: url(Kalratri\ mata.jpg);}
+    100%{background-image: url(Sharad-Navratri.jpeg);}
+
+}
+    
+
+h2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:x-large;
+}
+
+h4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    font-family:cursive;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
